@@ -1,4 +1,4 @@
-name: Netology AHJ
+name: ahj-code-task2
 
 on: [push, pull_request]
 
