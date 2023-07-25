@@ -10,6 +10,7 @@
       "error",
       "LabeledStatement",
       "WithStatement"
-    ]
+    ],
+    "import/no-extraneous-dependencies": ["error", {"devDependencies": true}]
   }
 }
